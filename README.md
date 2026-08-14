@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/TheCodeExplorer/leetcode-solutions/tree/master/0443-string-compression) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/TheCodeExplorer/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Array
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/TheCodeExplorer/leetcode-solutions/tree/master/0268-missing-number) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/TheCodeExplorer/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
 |  |
 | ------- |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/TheCodeExplorer/leetcode-solutions/tree/master/0268-missing-number) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/TheCodeExplorer/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
