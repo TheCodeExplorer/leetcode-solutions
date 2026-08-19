@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/TheCodeExplorer/leetcode-solutions/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/TheCodeExplorer/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [2029-stone-game-ix](https://github.com/TheCodeExplorer/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/TheCodeExplorer/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/TheCodeExplorer/leetcode-solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
@@ -88,4 +89,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/TheCodeExplorer/leetcode-solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/TheCodeExplorer/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/TheCodeExplorer/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/TheCodeExplorer/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
