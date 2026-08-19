@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/TheCodeExplorer/leetcode-solutions/tree/master/0268-missing-number) |
 | [2029-stone-game-ix](https://github.com/TheCodeExplorer/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/TheCodeExplorer/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/TheCodeExplorer/leetcode-solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Matrix
 |  |
 | ------- |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/TheCodeExplorer/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+## Number Theory
+|  |
+| ------- |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/TheCodeExplorer/leetcode-solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 <!---LeetCode Topics End-->
