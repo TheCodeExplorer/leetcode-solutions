@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0443-string-compression](https://github.com/TheCodeExplorer/leetcode-solutions/tree/master/0443-string-compression) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/TheCodeExplorer/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/TheCodeExplorer/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Array
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/TheCodeExplorer/leetcode-solutions/tree/master/0268-missing-number) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/TheCodeExplorer/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/TheCodeExplorer/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/TheCodeExplorer/leetcode-solutions/tree/master/2029-stone-game-ix) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/TheCodeExplorer/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Game Theory
 |  |
 | ------- |
