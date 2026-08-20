@@ -15,12 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/TheCodeExplorer/leetcode-solutions/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/TheCodeExplorer/leetcode-solutions/tree/master/0268-missing-number) |
 | [2029-stone-game-ix](https://github.com/TheCodeExplorer/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/TheCodeExplorer/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/TheCodeExplorer/leetcode-solutions/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/TheCodeExplorer/leetcode-solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/TheCodeExplorer/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/TheCodeExplorer/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
